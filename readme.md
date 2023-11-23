@@ -1,4 +1,4 @@
-# Contains all of the assignments of the course [Numerical Mthods Course](http://www.parisphysicsmaster.com/NumSim.html) during M1-[Paris Physics Master](http://www.parisphysicsmaster.com/)
+#### Contains all of the assignments of the course [Numerical Mthods Course](http://www.parisphysicsmaster.com/NumSim.html) during M1-[Paris Physics Master](http://www.parisphysicsmaster.com/)
 
 # Kindly note when I did these Assignments, my programming skills were not very good. My programming skills have advanced a lot since then. Kindly see my latest projects on Artificial Intelligence / Machine Learning
 

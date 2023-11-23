@@ -39,7 +39,7 @@
 
 
 # [5 Gravity problem with RK5 Method](5_Gravity_Problem_with_RK5-Solver.ipynb)
-- Orbit of Moon (RK5 Method)
+- Orbit of EARTH (RK5 Method)
 - Adaptive step-size RK5 Solver
 - Orbit of Earth
 

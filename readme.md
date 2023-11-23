@@ -34,7 +34,6 @@
 - Modified Euler Method
 - Orbit of Moon (Using Modified Euler Method)
 - Orbit of Moon (Using RK4 Method)
-- Orbit of Moon (Using RK4 Method)
 - Implicit Euler Method (Free Fall in a Viscous Fluid)
 
 

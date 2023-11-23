@@ -1,0 +1,1 @@
+Contains all of my assignments of the [Numerical Mthods Course](http://www.parisphysicsmaster.com/NumSim.html) during my M1 ([Paris Physics Master](http://www.parisphysicsmaster.com/))

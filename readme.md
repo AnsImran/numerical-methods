@@ -52,7 +52,7 @@ Contains all of the assignments of the course [Numerical Mthods Course](http://w
 
 
 
-[8 Minimization](8_Minimization.ipynb)
+# [8 Minimization](8_Minimization.ipynb)
 - Simple Bisection Method
 - Parabolic Bisection Method
 - Fitting a mathematical model to data

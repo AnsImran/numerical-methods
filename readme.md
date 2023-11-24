@@ -1,6 +1,6 @@
 #### Contains all of the assignments of the course [Numerical Methods Course](http://www.parisphysicsmaster.com/NumSim.html) during M1-[Paris Physics Master](http://www.parisphysicsmaster.com/)
 
-# Kindly note when I did these Assignments, my programming skills were not very good. My programming skills have advanced a lot since then. Kindly see my latest projects on Artificial Intelligence / Machine Learning
+#### Kindly note when I did these Assignments, my programming skills were not very good. My programming skills have advanced a lot since then. Kindly see my latest projects: [General Machine Learning Capabilities](https://github.com/AnsImran/Classifying-Quasars-Galaxies-Stars-using-Photometry) or [Computer Vision](https://github.com/AnsImran/classifying-grapevine-varieties-using-images-of-grapevine-leaves)
 
 
 # [1 Numbers, Approximations, Errors & Linear Regression](1_Numbers_Approximations_Errors_&_Linear-Regression.ipynb)
